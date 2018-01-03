@@ -23,7 +23,7 @@ Write the release notes in [Markdown](https://www.markdowntutorial.com/) and inc
 -	Italic font
 - A link
 
-The document needs to have between 200 and 250 words.
+The document needs to be 200-250 words long.
 
 Hint: Use the **Preview changes** option or YaaS [Content Editor](https://devportal.yaas.io/tools/documentationsdk/index.html#ContentEditor) to check if your Markdown displays correctly.
 
